@@ -1,6 +1,6 @@
 var ide = require( 'crosstalk-ide' )(),
     config = {},
-    workerPath = require.resolve( 'crosstalk-worker-api-aws-signature-version2' );
+    workerPath = require.resolve( '../index' );
 
 var worker;
 
