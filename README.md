@@ -11,7 +11,7 @@ crosstalk-worker-api-aws-signature-version2
 
 ## crosstalk.on
 
-[api.aws.signature.version2](/crosstalk/crosstalk-worker-api-aws-signature-version2/wiki/api.aws.signature.version2) - Creates AWS Version 2 signature
+[api.aws.signature.version2](https://github.com/crosstalk/crosstalk-worker-api-aws-signature-version2/wiki/api.aws.signature.version2) - Creates AWS Version 2 signature
 
 ## crosstalk.emit
 
